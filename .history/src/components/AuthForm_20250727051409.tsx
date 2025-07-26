@@ -7,11 +7,7 @@ type Props = {
 };
 
 export default function AuthForm({ onSubmit }: Props) {
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-  } = useForm<User>();
+  const { register, handleSubmit } = useForm<User>();
 
   return (
     <form onSubmit={handleSubmit(onSubmit)} className="container mt-5">
