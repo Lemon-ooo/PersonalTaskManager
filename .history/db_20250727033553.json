@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Làm báo cáo",
+      "description": "Hoàn thành báo cáo tuần",
+      "dueDate": "2025-07-28",
+      "status": "todo",
+      "username": "admin"
+    },
+    {
+      "id": 2,
+      "title": "Đi học",
+      "description": "React buổi 4",
+      "dueDate": "2025-07-29",
+      "status": "in-progress",
+      "username": "water"
+    },
+    {
+      "title": "Học bài",
+      "description": "học bài 1",
+      "dueDate": "2025-07-30",
+      "status": "todo",
+      "username": "admin",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "phlong.1112@gmail.com",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Task 1 của admin",
+      "description": "Mô tả task 1 của admin",
+      "dueDate": "2025-07-26",
+      "status": "todo",
+      "username": "admin"
+    },
+    {
+      "id": "2",
+      "title": "Task 2 của admin",
+      "description": "Mô tả task 2 của admin",
+      "dueDate": "2025-07-27",
+      "status": "in-progress",
+      "username": "admin"
+    },
+    {
+      "id": "3",
+      "title": "Task 3 của admin",
+      "description": "Mô tả task 3 của admin",
+      "dueDate": "2025-07-28",
+      "status": "done",
+      "username": "admin"
+    },
+    {
+      "id": "4",
+      "title": "Task 4 của admin",
+      "description": "Mô tả task 4 của admin",
+      "dueDate": "2025-07-29",
+      "status": "todo",
+      "username": "admin"
+    },
+    {
+      "id": "5",
+      "title": "Task 5 của admin",
+      "description": "Mô tả task 5 của admin",
+      "dueDate": "2025-07-30",
+      "status": "in-progress",
+      "username": "admin"
+    },
+    {
+      "id": "6",
+      "title": "Task 6 của admin",
+      "description": "Mô tả task 6 của admin",
+      "dueDate": "2025-07-31",
+      "status": "done",
+      "username": "admin"
+    },
+    {
+      "id": "7",
+      "title": "Task 7 của admin",
+      "description": "Mô tả task 7 của admin",
+      "dueDate": "2025-08-01",
+      "status": "todo",
+      "username": "admin"
+    },
+    {
+      "id": "8",
+      "title": "Task 8 của admin",
+      "description": "Mô tả task 8 của admin",
+      "dueDate": "2025-08-02",
+      "status": "in-progress",
+      "username": "admin"
+    },
+    {
+      "id": "9",
+      "title": "Task 9 của admin",
+      "description": "Mô tả task 9 của admin",
+      "dueDate": "2025-08-03",
+      "status": "done",
+      "username": "admin"
+    },
+    {
+      "id": "10",
+      "title": "Task 10 của admin",
+      "description": "Mô tả task 10 của admin",
+      "dueDate": "2025-08-04",
+      "status": "todo",
+      "username": "admin"
+    },
+    {
+      "id": "101",
+      "title": "Task 1 của water",
+      "description": "Mô tả task 1 của water",
+      "dueDate": "2025-07-26",
+      "status": "todo",
+      "username": "water"
+    },
+    {
+      "id": "102",
+      "title": "Task 2 của water",
+      "description": "Mô tả task 2 của water",
+      "dueDate": "2025-07-27",
+      "status": "in-progress",
+      "username": "water"
+    },
+    {
+      "id": "103",
+      "title": "Task 3 của water",
+      "description": "Mô tả task 3 của water",
+      "dueDate": "2025-07-28",
+      "status": "done",
+      "username": "water"
+    },
+    {
+      "id": "104",
+      "title": "Task 4 của water",
+      "description": "Mô tả task 4 của water",
+      "dueDate": "2025-07-29",
+      "status": "todo",
+      "username": "water"
+    },
+    {
+      "id": "105",
+      "title": "Task 5 của water",
+      "description": "Mô tả task 5 của water",
+      "dueDate": "2025-07-30",
+      "status": "in-progress",
+      "username": "water"
+    },
+    {
+      "id": "106",
+      "title": "Task 6 của water",
+      "description": "Mô tả task 6 của water",
+      "dueDate": "2025-07-31",
+      "status": "done",
+      "username": "water"
+    },
+    {
+      "id": "107",
+      "title": "Task 7 của water",
+      "description": "Mô tả task 7 của water",
+      "dueDate": "2025-08-01",
+      "status": "todo",
+      "username": "water"
+    },
+    {
+      "id": "108",
+      "title": "Task 8 của water",
+      "description": "Mô tả task 8 của water",
+      "dueDate": "2025-08-02",
+      "status": "in-progress",
+      "username": "water"
+    },
+    {
+      "id": "109",
+      "title": "Task 9 của water",
+      "description": "Mô tả task 9 của water",
+      "dueDate": "2025-08-03",
+      "status": "done",
+      "username": "water"
+    },
+    {
+      "id": "110",
+      "title": "Task 10 của water",
+      "description": "Mô tả task 10 của water",
+      "dueDate": "2025-08-04",
+      "status": "todo",
+      "username": "water"
+    }
+  ],
+  "users": [
+    {
+      "email": "phlong.1112@gmail.com",
+      "id": 1
+    }
+  ]
+}
